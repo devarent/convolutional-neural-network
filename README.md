@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# convutional-neural-networks
+
+<sub>Sistem Convolutional Neural Network terintegrasi sensor kamera dan database telemetri.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | convutional-neural-networks |
+| Primary language | HTML |
+| Topics | cnn, computer-science, computer-vision, deep-learning, html, python |
+| License | MIT |
+| Branch | master |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+convutional-neural-networks is a hands-on repository focused on: Sistem Convolutional Neural Network terintegrasi sensor kamera dan database telemetri.. Primary language: HTML. Topics: cnn, computer-science, computer-vision, deep-learning, html, python. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 

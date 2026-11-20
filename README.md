@@ -12,7 +12,7 @@
 <!-- identity-block -->
 <div align="center">
 
-# convutional-neural-networks
+# convolutional-neural-network
 
 <sub>Sistem Convolutional Neural Network terintegrasi sensor kamera dan database telemetri.</sub>
 
@@ -22,7 +22,7 @@
 
 | Field | Detail |
 | --- | --- |
-| Repository | convutional-neural-networks |
+| Repository | convolutional-neural-network |
 | Primary language | HTML |
 | Topics | cnn, computer-science, computer-vision, deep-learning, html, python |
 | License | MIT |
@@ -31,7 +31,7 @@
 
 ## Overview
 
-convutional-neural-networks is a hands-on repository focused on: Sistem Convolutional Neural Network terintegrasi sensor kamera dan database telemetri.. Primary language: HTML. Topics: cnn, computer-science, computer-vision, deep-learning, html, python. The README below documents the project; use the table above for a quick overview.
+convolutional-neural-network is a hands-on repository focused on: Sistem Convolutional Neural Network terintegrasi sensor kamera dan database telemetri.. Primary language: HTML. Topics: cnn, computer-science, computer-vision, deep-learning, html, python. The README below documents the project; use the table above for a quick overview.
 
 ### Global references
 
@@ -46,7 +46,7 @@ convutional-neural-networks is a hands-on repository focused on: Sistem Convolut
 <!-- dbx-style-kit -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/convutional-neural-networks-1f6feb?style=for-the-badge" alt="convutional-neural-networks" />
+<img src="https://img.shields.io/badge/convolutional-neural-network-1f6feb?style=for-the-badge" alt="convolutional-neural-network" />
 <img src="https://img.shields.io/badge/LANG%20HTML-3178c6?style=for-the-badge" alt="LANG HTML" />
 <img src="https://img.shields.io/badge/STARS%200-eab308?style=for-the-badge" alt="STARS 0" />
 <img src="https://img.shields.io/badge/LICENSE%20MIT-22c55e?style=for-the-badge" alt="LICENSE MIT" />
